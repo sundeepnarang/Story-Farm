@@ -2,6 +2,10 @@
 logs
 *.log
 
+#copyrighted
+
+copyrighted
+
 # Runtime data
 pids
 *.pid
